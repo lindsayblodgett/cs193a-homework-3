@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Puppy Pal</string>
+    <string name="title_activity_browse_puppies">BrowsePuppies</string>
+
+    <string-array name="date_activities">
+        <item>How about a walk on the beach?</item>
+        <item>Feeling a stroll through the park?</item>
+        <item>Jog together?</item>
+        <item>Cuddle on the couch with a movie?</item>
+    </string-array>
+
+    <string-array name="puppy_photo_urls">
+        <item>Puppy-Sailor.jpeg</item>
+        <item>The-teeniest-puppy.jpeg</item>
+        <item>Driving-to-puppy-park.jpeg/</item>
+        <item>Puppy-Power.jpeg</item>
+        <item>I-DIDNT-DO-IT.jpeg</item>
+    </string-array>
+</resources>
